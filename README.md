@@ -1,1 +1,20 @@
-This app is vibe coded at 3:14 AM and the only purpose of this app is to bulit a bridge between me and my co-founder as other apps that are in the market are changing for this feature of live sharing and we also are aware of other methods but that is just not suitable for long runs and hence this app....   
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1cZ8Sp4I8VPjlKdG3hfjj1Cltm3bwJ5Ig
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
